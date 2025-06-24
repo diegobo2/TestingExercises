@@ -67,7 +67,8 @@ Por otra parte, solo se otorgan préstamos para adquirir condominios, casas de c
 Se debe calcular la bonificación de un empleado. No puede ser negativa, per puede reducir a cero. La bonificación se basa en la duración del empleo:
 - Menos de o igual a 2 años
 - Más de 2 años pero menos de 5 años
-- 5 a 10 años inclusive o más de 10 años
+- 5 a 10 años inclusive o más de 10 años.
+  
 ¿Cuál es el número mínimo de casos de pruebas necesario para cubrir todas las particiones de equivalencia válidas para calcular la bonificación?
 - A) 3
 - B) 5
