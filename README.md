@@ -1,6 +1,6 @@
 # Diseño de Casos de Prueba – Técnicas Fundamentales (ISTQB)
 
-Este repositorio contiene ejemplos y ejercicios prácticos organizados por técnica de diseño de pruebas funcionales, conforme al temario del nivel Foundation del ISTQB. A continuación se listan los ejercicios y sus respectivos enlaces.
+Este repositorio contiene ejemplos y ejercicios prácticos organizados por técnica de diseño de pruebas funcionales.
 
 ## Índice de Técnicas y Ejercicios
 
