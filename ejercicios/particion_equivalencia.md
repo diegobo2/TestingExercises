@@ -21,10 +21,6 @@ Por otra parte, solo se otorgan préstamos para adquirir condominios, casas de c
 
 ## 1.2 Tabla de equivalencia (útil para entradas/salidas esperadas)
 
-![Formulario](./formulario.png)
-
-### Resolución
-
 | Entrada                                  | Salida esperada          |
 |------------------------------------------|--------------------------|
 | Sueldo = 2000, propiedad = casa de campo | ✅ Préstamo aprobado     |
@@ -51,6 +47,8 @@ Por otra parte, solo se otorgan préstamos para adquirir condominios, casas de c
 | No            | No             | No               | ❌        |
 
 # Ejercicio 2: Tabla de validación de edades
+
+![Formulario](./formulario.png)
 
 | Caso de prueba | Edad ingresada | Descripción                          | Resultado esperado     |
 |----------------|----------------|--------------------------------------|------------------------|
