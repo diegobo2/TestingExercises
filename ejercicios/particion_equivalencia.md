@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">Volver al README</a>
+</p>
+
 # Ejercicio 1: Tablas de decisión para validación de préstamos hipotecarios
 
 ## 1.1 Tabla de decisión
