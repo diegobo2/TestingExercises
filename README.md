@@ -1,4 +1,4 @@
-# Diseño de Casos de Prueba – Técnicas Fundamentales (ISTQB)
+# Diseño de Casos de Prueba
 
 Este repositorio contiene ejemplos y ejercicios prácticos organizados por técnica de diseño de pruebas funcionales.
 
