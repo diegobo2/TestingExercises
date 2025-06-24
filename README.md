@@ -2,8 +2,6 @@
 
 Este repositorio contiene ejemplos y ejercicios prácticos organizados por técnica de diseño de pruebas funcionales.
 
-## Índice de Técnicas y Ejercicios
-
 ### 1. Partición de Equivalencia
 - [Ejercicio: Bonificación según duración de empleo](./ejercicios/particion_equivalencia.md)
 
