@@ -1,7 +1,3 @@
-<p align="right">
-  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">Volver al README</a>
-</p>
-
 # Ejercicio 1: Descuento por tipo de tarjeta
 
 **Enunciado:**
@@ -70,7 +66,3 @@ Aerolíneas Argentinas lanza una venta de pasajes para el Cyber Monday:
 | 6    | Brasil  | Internacional   | No                 | No                  | 0%              |
 | 7    | Chile   | Internacional   | Sí                 | Sí                  | 5%              |
 | 8    | Chile   | Internacional   | No                 | No                  | 0%              |
-
-<p align="right">
-  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">Volver al README</a>
-</p>

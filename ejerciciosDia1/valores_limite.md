@@ -1,7 +1,3 @@
-<p align="right">
-  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">Volver al README</a>
-</p>
-
 # Ejercicio 1: Empresa de préstamos
 
 1- Definir los casos de pruebas del ejercicio de la empresa de prestamos.
@@ -102,7 +98,3 @@ Fronteras:
 ### Respuesta
 
 **C) (10°C, 16°C, 19°C, 22°C, 23°C)**
-
-<p align="right">
-  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">Volver al README</a>
-</p>
