@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">BACK</a>
+</p>
+
 # Proceso de desarrollo de testing (IEEE 829)
 ## Actividad – Diseño de un Caso de Prueba
 
@@ -64,3 +68,6 @@ Entonces el préstamo debe ser aprobado
 | 5    | Retirado         | Sí             | ❌ No              |
 | 6    | Retirado         | No             | ✅ Sí              |
 
+<p align="right">
+  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">BACK</a>
+</p>

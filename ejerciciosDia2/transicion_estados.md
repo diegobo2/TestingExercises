@@ -1,4 +1,9 @@
+<p align="right">
+  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">BACK</a>
+</p>
+
 # Proceso de desarrollo de testing (IEEE 829)
+
 ## Actividad – Diseño de un Caso de Prueba
 
 **Actividad:** Diseñar los casos de pruebas de las siguientes historias de usuario
@@ -54,5 +59,7 @@ Entonces el sistema debe mostrar el listado de vuelos disponibles
 | 3    | 16/01/2023       | 18/01/2023       | 15/01/2023     | No                 | ⚠️ No hay vuelos disponibles                           |
 | 4    | 16/01/2023       | 18/01/2023       | 15/01/2023     | Sí                 | ✅ Se muestra listado de vuelos disponibles            |
 
-> **Nota:** Se recomienda parametrizar el valor de la “fecha actual” (estado del sistema) para mantener los casos reproducibles.
 
+<p align="right">
+  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">BACK</a>
+</p>

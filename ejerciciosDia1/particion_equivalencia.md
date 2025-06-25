@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">BACK</a>
+</p>
+
 # Ejercicio 1: Tablas de decisión para validación de préstamos hipotecarios
 
 ## 1.1 Tabla de decisión
@@ -101,4 +105,6 @@ La retroalimentación para las diferentes cantidades de pasos debe ser:
 
 Es el único conjunto que cubre 4 de las 5 particiones, incluida la más alta (> 6000), lo que le da la cobertura más amplia en términos de particiones.
 
-
+<p align="right">
+  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">BACK</a>
+</p>

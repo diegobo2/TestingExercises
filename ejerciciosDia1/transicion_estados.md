@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">BACK</a>
+</p>
+
 # Ejercicio 1: Sistema de administración de bugs
 
 **Enunciado:**
@@ -76,3 +80,7 @@ Se desea desarrollar el **número mínimo de pruebas** para cubrir **cada transi
 * Cliente termina → se imprime factura → regreso a inicio
 
 ### Total de pruebas necesarias: **4**
+
+<p align="right">
+  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">BACK</a>
+</p>

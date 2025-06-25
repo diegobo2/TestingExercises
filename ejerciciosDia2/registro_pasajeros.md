@@ -1,4 +1,9 @@
+<p align="right">
+  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">BACK</a>
+</p>
+
 # Proceso de desarrollo de testing (IEEE 829)
+
 ## Actividad – Diseño de un Caso de Prueba
 
 **Actividad:** Diseñar los casos de pruebas de las siguientes historias de usuario
@@ -61,3 +66,6 @@ Entonces el sistema debe registrar al usuario y mostrar mensaje de éxito
 | 4    | Juan Pérez             | 1234567890   | JuAn2023     | 12a        | ❌ Error: Password con menos de 6 caracteres       |
 | 5    | Juan Pérez             | 1234567890   | JuAn2023     | 12ab34     | ✅ Registro exitoso                                |
 
+<p align="right">
+  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">BACK</a>
+</p>
