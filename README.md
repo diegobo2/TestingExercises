@@ -32,18 +32,18 @@ Este repositorio contiene ejemplos y ejercicios prácticos organizados por técn
 
 ## Ejercicios Día 2
 
-### 1. Registro de Pasajeros
-> Validación de formularios: nombres alfabéticos, teléfono numérico, longitud mínima de campos obligatorios.
-- [Ejercicio: Formulario de registro de usuario](./ejerciciosDia2/registro_pasajeros.md)
-
----
-
-### 2. Solicitud de Préstamo Bancario
+### 1. Solicitud de Préstamo Bancario
 > Uso de tabla de decisión para representar reglas condicionales según tipo de cliente y deudas.
 - [Ejercicio: Evaluación de solicitud de crédito](./ejerciciosDia2/prestamo_bancario.md)
 
 ---
 
-### 3. Transición de Estados en Bomba de Gasolina
+### 2. Transición de Estados en Bomba de Gasolina
 > Verificación de rutas entre estados, condiciones de cancelación, errores y flujo normal hasta el cierre.
 - [Ejercicio: Ciclo completo en estación de servicio](./ejerciciosDia2/transicion_estados.md)
+
+---
+
+### 3. Registro de Pasajeros
+> Validación de formularios: nombres alfabéticos, teléfono numérico, longitud mínima de campos obligatorios.
+- [Ejercicio: Formulario de registro de usuario](./ejerciciosDia2/registro_pasajeros.md)
