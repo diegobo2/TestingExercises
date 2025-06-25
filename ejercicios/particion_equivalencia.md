@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">Volver al README</a>
+</p>
+
 # Ejercicio 1: Tablas de decisión para validación de préstamos hipotecarios
 
 ## 1.1 Tabla de decisión
@@ -20,10 +24,6 @@ Por otra parte, solo se otorgan préstamos para adquirir condominios, casas de c
 | 5000         | Sí                | Dúplex                  | ❌ (propiedad inválida) |
 
 ## 1.2 Tabla de equivalencia (útil para entradas/salidas esperadas)
-
-![Formulario](./formulario.png)
-
-### Resolución
 
 | Entrada                                  | Salida esperada          |
 |------------------------------------------|--------------------------|
@@ -52,6 +52,8 @@ Por otra parte, solo se otorgan préstamos para adquirir condominios, casas de c
 
 # Ejercicio 2: Tabla de validación de edades
 
+![Formulario](./formulario.png)
+
 | Caso de prueba | Edad ingresada | Descripción                          | Resultado esperado     |
 |----------------|----------------|--------------------------------------|------------------------|
 | 1              | 17             | Menor que el mínimo permitido        | ❌  (mensaje de error) |
@@ -67,9 +69,10 @@ Por otra parte, solo se otorgan préstamos para adquirir condominios, casas de c
 # Ejercicio 3: Ejercicio de examen ISTQB
 
 Se debe calcular la bonificación de un empleado. No puede ser negativa, per puede reducir a cero. La bonificación se basa en la duración del empleo:
-• Menos de o igual a 2 años
-• Más de 2 años pero menos de 5 años
-• 5 a 10 años inclusive o más de 10 años
+- Menos de o igual a 2 años
+- Más de 2 años pero menos de 5 años
+- 5 a 10 años inclusive o más de 10 años.
+  
 ¿Cuál es el número mínimo de casos de pruebas necesario para cubrir todas las particiones de equivalencia válidas para calcular la bonificación?
 - A) 3
 - B) 5
@@ -86,11 +89,11 @@ Una aplicación de entrenamiento fisico mide el número de pasos que se caminan 
 
 La retroalimentación para las diferentes cantidades de pasos debe ser:
 
-*Hasta 1000 pasos - ¡Lleva una vida sedentaria!
-*Más de 1000 pasos, hasta 2000 - ¡Lleva una vida poco activa!
-*Más de 2000 pasos, hasta 4000- ¡Se acerca al objetivo!
-*Más de 4000 pasos, hasta 6000 -¡No está mal!
-*Más de 6000 pasos -¡Así se hace!
+- Hasta 1000 pasos - ¡Lleva una vida sedentaria!
+- Más de 1000 pasos, hasta 2000 - ¡Lleva una vida poco activa!
+- Más de 2000 pasos, hasta 4000- ¡Se acerca al objetivo!
+- Más de 4000 pasos, hasta 6000 -¡No está mal!
+- Más de 6000 pasos -¡Así se hace!
 ¿Cuál de los siguientes conjuntos de entradas de pruebas lograria la cobertura de particion de equivalencia más alta?
 - A)  (0,  1000,  2000,  3000,  4000)
 - B)  (1000,  2001,  4000,  4001,  6000)
@@ -101,4 +104,7 @@ La retroalimentación para las diferentes cantidades de pasos debe ser:
 
 Es el único conjunto que cubre 4 de las 5 particiones, incluida la más alta (> 6000), lo que le da la cobertura más amplia en términos de particiones.
 
+<p align="right">
+  <a href="./../README.md" style="text-decoration:none; background:#eee; border:1px solid #ccc; padding:4px 8px; border-radius:4px; font-size:90%;">Volver al README</a>
+</p>
 
