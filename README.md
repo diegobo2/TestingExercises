@@ -47,3 +47,20 @@ Este repositorio contiene ejemplos y ejercicios prácticos organizados por técn
 ### 3. Registro de Pasajeros
 > Validación de formularios: nombres alfabéticos, teléfono numérico, longitud mínima de campos obligatorios.
 - [Ejercicio: Formulario de registro de usuario](./ejerciciosDia2/registro_pasajeros.md)
+
+---
+
+## Ejercicio de test con Selenium (IDE: InteliJ IDEA Community)
+
+### Código principal (`src/main/java/pageObject`)
+- [BaseClass.java](./src/main/java/pageObject/BaseClass.java)
+- [ConfirmOrder_page.java](./src/main/java/pageObject/ConfirmOrder_page.java)
+- [ConfirmPurchase_page.java](./src/main/java/pageObject/ConfirmPurchase_page.java)
+- [EnterData_page.java](./src/main/java/pageObject/EnterData_page.java)
+- [Inventory_page.java](./src/main/java/pageObject/Inventory_page.java)
+- [Login_page.java](./src/main/java/pageObject/Login_page.java)
+- [ValidateOrder_page.java](./src/main/java/pageObject/ValidateOrder_page.java)
+
+### Pruebas (`src/test/java`)
+- [PrimerTestSauceDemo.java](./src/test/java/PrimerTestSauceDemo.java)
+- [Login_sauceDemo_test.java](./src/test/java/test_front/Login_sauceDemo_test.java)
