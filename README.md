@@ -52,15 +52,8 @@ Este repositorio contiene ejemplos y ejercicios prácticos organizados por técn
 
 ## Ejercicio de test con Selenium (IDE: InteliJ IDEA Community)
 
-### Código principal (`src/main/java/pageObject`)
-- [BaseClass.java](./src/main/java/pageObject/BaseClass.java)
-- [ConfirmOrder_page.java](./src/main/java/pageObject/ConfirmOrder_page.java)
-- [ConfirmPurchase_page.java](./src/main/java/pageObject/ConfirmPurchase_page.java)
-- [EnterData_page.java](./src/main/java/pageObject/EnterData_page.java)
-- [Inventory_page.java](./src/main/java/pageObject/Inventory_page.java)
-- [Login_page.java](./src/main/java/pageObject/Login_page.java)
-- [ValidateOrder_page.java](./src/main/java/pageObject/ValidateOrder_page.java)
+### [Código principal (`src/main/java/pageObject`)](./Pruebas_iu_automatizadas/Practicas_front/src/main/java/pageObject)
 
-### Pruebas (`src/test/java`)
-- [PrimerTestSauceDemo.java](./src/test/java/PrimerTestSauceDemo.java)
-- [Login_sauceDemo_test.java](./src/test/java/test_front/Login_sauceDemo_test.java)
+### [Primer Test (`src/test/java`)](./Pruebas_iu_automatizadas/Practicas_front/src/test/java/PrimerTestSauceDemo.java)
+
+### [Test Unitarios(`src/test/java/test_front`)](./Pruebas_iu_automatizadas/Practicas_front/src/test/java/test_front)
